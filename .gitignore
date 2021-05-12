@@ -34,3 +34,4 @@ build/
 
 ### text filer
 *.txt
+*.properties
