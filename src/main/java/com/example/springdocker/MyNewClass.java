@@ -5,10 +5,18 @@ public class MyNewClass {
     public String lastname;
 
     public int getAge() {
-        return 20;
+        return 10;
     }
 
     public String getNameAndAge() {
-        return firstname + " " + lastname + " is: " + getAge() + " old.";
+        return lastname + " is: " + getAge() + " old.";
+    }
+
+    public String getFirstname() {
+        return firstname;
+    }
+
+    public String getLastname() {
+        return lastname;
     }
 }
