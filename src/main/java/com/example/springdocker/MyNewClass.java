@@ -1,6 +1,6 @@
 package com.example.springdocker;
 
 public class MyNewClass {
-    private String firstname;
-    private String lastname;
+    public String firstname;
+    public String lastname;
 }
