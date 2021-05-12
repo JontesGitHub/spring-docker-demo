@@ -9,7 +9,7 @@ public class MyNewClass {
     }
 
     public String getNameAndAge() {
-        return lastname + " is: " + getAge() + " old.";
+        return firstname + " " + lastname + " is: " + getAge() + " years old.";
     }
 
     public String getFirstname() {
